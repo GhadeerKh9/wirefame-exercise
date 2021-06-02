@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: grey;
+    padding: 20px;
+    /* margin-bottom: 100; */
+}
+nav ul li {
+    display: inline-block;
+    margin: 100x;
+    /* text-align: center; */
+}
+main img {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+main div {
+    display: inline-block;
+    /* margin-left: auto; */
+    
+    
+}
+footer {
+    background-color: grey;
+    padding: 20px;
+}
+/* main section div {display: ;
+
+} */
+footer {
+    padding: 20px;
+    background-color: grey;
+}
+
+.mix{
+    display: inline-block;
+}
